@@ -1,3 +1,10 @@
+
+opencode下载
+
+https://ai.codefather.cn/library/2010962343906897922
+
+
+
 采用opencode读取skill
 
 opencode 按优先级从这几个位置加载 skill（启动时扫描，改完要重启）：
