@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "skills": {
+    "paths": ["dev_skills"]
+  },
+  "references": {
+    "cheatsheet": {
+      "repository": "zljin/cheatsheet",
+      "description": "Java后端技术知识库（Java/框架/数据库/中间件/DevOps/系统设计），面试出题和查证依据"
+    }
+  }
+}
